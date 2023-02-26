@@ -1,2 +1,2 @@
 # Coursera-JHU-HTML-Course
-theme: minima
+theme: minimal
